@@ -1,4 +1,4 @@
-# Aurelia-Dragula
+# Aurelia-Dragula (OF)
 
 aurelia-dragula is an [Aurelia](https://aurelia.io) plugin which provides a simple (but not simplistic) library to add drag and drop functionality.
 
